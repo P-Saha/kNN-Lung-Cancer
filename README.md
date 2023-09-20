@@ -15,5 +15,3 @@ Our plan is to try K-NN on both datasets to create a prediction model for the tw
 
 ## K-Means
 We are also interested in using K-Means Cluster analysis on both datasets, looking at their overlap in age, gender, and obesity/BMI. We will add a predictor based on which dataset each of the observations come from, and we hope to find clusters that correlate to various predictors within the datasets to see if there will be anything that may suggest possible inference or relationships within the clusters. For example, if we see that within a cluster, all of the points which are from the Cancer dataset also have a high genetic risk, this may perhaps suggest that the points within that cluster from the other dataset also have high genetic risk. 
-
-Datathon 1
