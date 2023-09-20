@@ -2,12 +2,12 @@
 ## Preprocessing/feature Engineering
 Prior to conducting analyses using both dataset, outliers that could potentially skew our results will be inspected and addressed to ensure high data quality. Based on visual inspection, there is no missing data in either dataset. Similar variables, such as height, weight and BMI, will be reduced to avoid redundancy and over-representation in the model-fitting process. This is also important to remove potential multicollinearity within the dataset. 
 
-In addition, we are planning to 
-No missing data, so no problems to deal with in this regard
-Finding a pathway between BMI and obesity to be able to compare the two
-Label encoding for female and males 
-Scaling for KNN and K-Means to ensure that higher ranges of data do not dominate (i.e. Caloric Intake for example)
-Remove multicollinearity from within the dataset, i.e. height and weight directly determine BMI
+In addition, we are planning to:\
+No missing data, so no problems to deal with in this regard\
+Finding a pathway between BMI and obesity to be able to compare the two\
+Label encoding for female and males\
+Scaling for KNN and K-Means to ensure that higher ranges of data do not dominate (i.e. Caloric Intake for example)\
+Remove multicollinearity from within the dataset, i.e. height and weight directly determine BMI\
 Data Binning, i.e. turn the caloric intake continuous data into bins of 0-500, 501- 1000, 1001-1500, etc.
 
 ## KNN
