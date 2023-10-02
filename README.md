@@ -1,4 +1,4 @@
-# Datathon 1: Analysis of Lung Cancer using k-Nearest-Neighbours
+# Analysis of Lung Cancer using k-Nearest-Neighbours
 Kinna Zhao, Priyonto Saha, Yacine Marouf
 ## Introduction:
 In Canada, lung cancer is a leading cause of cancer-related death, taking away the life of over 21,000 people per year (Statistics Canada, 2022). On the other hand, obesity, which is measured with a body mass index (BMI) above 30.0, increases the risk of health conditions such as cardiovascular diseases and adds financial burden to the healthcare system (Wharton et al., 2020; Statistics Canada, 2019). Lung cancer and obesity are both diseases with multiple behavioural, environmental, and hereditary factors. Thus the goal of this report is to analyse and visualise a lung cancer dataset from Ethiopia and a BMI dataset from Canada and predict the possible severity of cancer and rate of obesity through the use of linear regressions and K-nearest-neighbours (KNN). 
